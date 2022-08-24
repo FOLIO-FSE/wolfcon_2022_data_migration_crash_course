@@ -7,7 +7,7 @@ Links and other things for the two workshops held at Wolfcon 2022
 ### Slack channel / getting help
 If you have questions about the session or how to set up your computer, please ask in the #wolfcon-data-migration-crash-course-part-2 Slack channel.
 
-### Prequisites
+### Prerequisites
 #### Software
 First of all, you need Python 3.9 or greater on you system
 Then, you need 
